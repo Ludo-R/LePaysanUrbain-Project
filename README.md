@@ -5,6 +5,7 @@ Ce repositary contient le suivi du projet : Le Paysan Urbain
 - Daily Review
 - Livrables du projet
 - Cahier des charges
+- Lettre de cadrage
 - MCD
 - MLD
 - MPD
