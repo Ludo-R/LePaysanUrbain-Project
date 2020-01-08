@@ -1,4 +1,4 @@
-Equipe projet : Poinsu Dylan, Kaddous Daniel, Harris Joshua, Randon Ludovic, 
+### Equipe projet : Poinsu Dylan, Kaddous Daniel, Harris Joshua, Randon Ludovic, 
 
 Ce repositary contient le suivi du projet : Le Paysan Urbain
 
